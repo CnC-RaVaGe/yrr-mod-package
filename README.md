@@ -1,2 +1,2 @@
 # yrr-mod-package
- Yuri's Revenge Redux mod package for the current version.
+ The complete Yuri's Revenge Redux mod release package for the latest development version.
