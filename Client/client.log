@@ -1,0 +1,64 @@
+02.04. 20:36:43.296    ***Logfile for Yuri's Revenge client***
+02.04. 20:36:43.301    Client version: 2.6.10.3
+02.04. 20:36:43.301    Loading settings.
+02.04. 20:36:43.330    Initializing updater.
+02.04. 20:36:43.340    Warning: No download mirrors found in updater config file or the built-in game info.
+02.04. 20:36:43.340    Update mirror count: 0
+02.04. 20:36:43.341    Running from: clientdx.exe
+02.04. 20:36:43.342    Operating system: Microsoft Windows NT 6.2.9200.0
+02.04. 20:36:43.342    Selected OS profile: WIN810
+02.04. 20:36:43.347    Removing partial custom component downloads.
+02.04. 20:36:43.348    Checking for the existence of FinalSun.ini.
+02.04. 20:36:43.348    FinalSun settings file exists.
+02.04. 20:36:43.352    Writing installation path to the Windows registry.
+02.04. 20:36:43.356    Starting background processing of INI files.
+02.04. 20:36:43.357    /INI/Base does not exist, skipping background processing of INI files.
+02.04. 20:36:43.815    Initializing GameClass.
+02.04. 20:36:43.977    InitGraphicsMode: 2560x1440
+02.04. 20:36:44.085    Loading maps.
+02.04. 20:36:44.441    Hardware info: AMD Ryzen 7 1700 Eight-Core Processor (8 cores) | Video controller: NVIDIA GeForce GTX 1660 | Total physical memory: 16GB
+02.04. 20:36:44.533    DiscordHandler: Connected Discord RPC client.
+02.04. 20:36:44.554    Discord: Pipe Connection Established. Valid on pipe #0
+02.04. 20:36:44.740    Attempting to parse INI/Battle.ini to populate mission list.
+02.04. 20:36:44.747    Finished parsing INI/Battle.ini.
+02.04. 20:36:44.747    Attempting to parse INI/BattleFS.ini to populate mission list.
+02.04. 20:36:44.748    File INI/BattleFS.ini not found. Ignoring.
+02.04. 20:36:44.876    Reading statistics.
+02.04. 20:36:45.295    AssetLoader.LoadSound: Sound not found! getready.wav
+02.04. 20:36:45.323    AssetLoader.LoadSound: Sound not found! getready.wav
+02.04. 20:36:45.323    AssetLoader.LoadSound: Sound not found! return.wav
+02.04. 20:36:45.505    AssetLoader.LoadSound: Sound not found! getready.wav
+02.04. 20:36:45.505    AssetLoader.LoadSound: Sound not found! return.wav
+02.04. 20:36:45.525    AssetLoader.LoadSound: Sound not found! getready.wav
+02.04. 20:36:45.609    Discord: Received Ready from user RaVaGe
+02.04. 20:36:46.628    Discord: Rich Presence Updated. State: ; Details: In Client
+02.04. 20:36:48.634    Discord: Rich Presence Updated. State: Setting Up; Details: Skirmish • [-] Official Test Map • Standard
+02.04. 20:36:49.634    Discord: Rich Presence Updated. State: ; Details: In Client
+02.04. 20:36:55.194    Writing settings INI.
+02.04. 20:36:57.636    Discord: Rich Presence Updated. State: Setting Up; Details: Skirmish • [-] Official Test Map • Standard
+02.04. 20:37:03.637    Discord: Rich Presence Updated. State: Setting Up; Details: Skirmish • (8) Monster Movie • Standard
+02.04. 20:37:04.637    Discord: Rich Presence Updated. State: Setting Up; Details: Skirmish • (8) A Path Beyond II • Standard
+02.04. 20:37:05.638    Discord: Rich Presence Updated. State: Setting Up; Details: Skirmish • (8) Monster Movie • Standard
+02.04. 20:37:10.641    Discord: Rich Presence Updated. State: Setting Up; Details: Skirmish • (8) Monster Movie • Standard
+02.04. 20:39:16.891    Writing spawn.ini
+02.04. 20:39:16.915    Writing map.
+02.04. 20:39:16.915    Loading map INI from S:/Installed Games/C&C YR Redux/Maps/Standard/monsterm.map
+02.04. 20:39:16.939    About to launch main game executable.
+02.04. 20:39:16.942    Writing settings INI.
+02.04. 20:39:16.943    Launch executable: syringe.exe
+02.04. 20:39:16.943    Launch arguments: "gamemd.exe" -SPAWN
+02.04. 20:39:16.958    GameProcessLogic: Process started.
+02.04. 20:39:16.966    Waiting for qres.dat or syringe.exe to exit.
+02.04. 20:39:18.697    Discord: Rich Presence Updated. State: In Game; Details: Skirmish • (8) Monster Movie • Standard
+02.04. 21:02:54.669    GameProcessLogic: Process exited.
+02.04. 21:02:54.783    InitGraphicsMode: 2560x1440
+02.04. 21:02:54.878    GameProcessExited: Parsing statistics.
+02.04. 21:02:54.878    Parsing game statistics.
+02.04. 21:02:54.883    DTAStatisticsParser: Failed to read statistics: the log file does not exist.
+02.04. 21:02:54.883    GameProcessExited: Adding match to statistics.
+02.04. 21:02:54.906    Writing game info to statistics file.
+02.04. 21:02:54.908    Finished writing statistics.
+02.04. 21:02:56.232    Discord: Rich Presence Updated. State: Setting Up; Details: Skirmish • (8) Monster Movie • Standard
+02.04. 21:03:01.170    Exiting.
+02.04. 21:03:01.171    Saving friend and ignore list.
+02.04. 21:03:01.235    Discord: Rich Presence Updated. State: ; Details: In Client
