@@ -1,17 +1,23 @@
 # Yuri's Revenge Redux
 "Command & Conquer Yuri's Revenge Redux" is a game modification of the popular real time strategy game C&C Yuri's Revenge released in 2001. The aim of this modification project is to remaster the original game content, from graphics & sound to the maps, missions and game-play balance. Taking inspiration from other modern RTS games from studios such as Relic & Activision Blizzard.
 <br><br>
-Currently the project is in public beta and the release are not scheduled, rather released as each version accumulates enough progress. <br><br>
-The mod package uses the CnCNet XNA Client as its main user interface for the game both for offline and online multiplayer. Please the bottom of this file for the relevant project related repositories.
-<br><br><br>
+Currently the project is in public beta and the release are not scheduled, rather released as each version accumulates enough progress. 
+<br><br>
+The mod package uses the CnCNet XNA Client as its main user interface for the game both for offline and online multiplayer. Please see below for the relevant project  repositories.
+<br><br>
 
-**Repositories**<br>
+**Project Repositories**<br>
+[https://github.com/CC-RaVaGe/yrr-mod-package](https://github.com/CC-RaVaGe/yrr-mod-package)
+<br>
 [https://github.com/CC-RaVaGe/yrr-client](https://github.com/CC-RaVaGe/yrr-client)<br>
 [https://github.com/CC-RaVaGe/yrr-client-launcher](https://github.com/CC-RaVaGe/yrr-client-launcher)
 <br>
 [https://github.com/CC-RaVaGe/yrr-moddb-theme](https://github.com/CC-RaVaGe/yrr-moddb-theme)
 <br>
-<br><br>
+<br>
+<br>
+
+# Change log
 
 **Version: 1.005b**
 * Fixed building damage caused by fire when reduced to 50% health not causing damage.
@@ -72,9 +78,9 @@ The mod package uses the CnCNet XNA Client as its main user interface for the ga
 * One remastered unit so far (Prism Tank).
 * Enhanced performance and less lag in high action scenes. (experimental).
 * CnCNet multiplayer enabled.
-<br><br>
+<br><br><br>
 
-**Credits**<br>
+# Credits
 * 4SG, Starkku - INI Help
 * Rampastring, Starkku & contributors - CnCNet Mod-base Client
 * AtomicNoodles - Remastered Infantry Pack, UMP edits
