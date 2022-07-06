@@ -1,0 +1,5 @@
+csof 039 : New Terrain Discovered
+csof 062 : Unit Ready
+csof 064 : Unit Lost
+csof 073 : Building Infiltrated
+csof 016 : Establishing Battlefield Control Stand-by

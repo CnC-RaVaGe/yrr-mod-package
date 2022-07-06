@@ -20,14 +20,8 @@ IonStorms=no
 Meteorites=no
 Visceroids=no
 
-[Ranking]
-ParTimeEasy=00:01:00
-ParTimeMedium=00:01:00
-ParTimeHard=00:01:00
-UnderParTitle=GUI:NoUnderParTitle
-UnderParMessage=GUI:NoUnderParMessage
-OverParTitle=GUI:NoOverParTitle
-OverParMessage=GUI:NoOverParMessage
+[General]
+DefaultMirageDisguises=TREE20,TREE21,TREE23,TREE24,TREE25,TREE26,TREE27,TREE28
 
 [Houses]
 0=Americans

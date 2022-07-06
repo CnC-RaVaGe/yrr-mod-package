@@ -1,113 +1,121 @@
 address;country;countrycode;name;password;clients;maxclients;official;latitude;longitude;version;distance
-156.57.173.29:50001;Canada;CA;Canada East - Hosted by ACanadianBear;0;0;250;2;0;0;3;0
-156.57.173.29:50000;Canada;CA;Canada East - Hosted by ACanadianBear;0;0;250;2;0;0;2;0
-45.63.24.182:50001;Australia;AU;CnCNet Australia - rowsnet.com;0;0;250;2;0;0;3;0
-45.63.24.182:50000;Australia;AU;CnCNet Australia - rowsnet.com;0;31;250;2;0;0;2;0
-162.55.221.83:50001;Germany;DE;CnCNet Europe - rowsnet.com;0;2;250;2;0;0;3;0
-162.55.221.83:50000;Germany;DE;CnCNet Europe - rowsnet.com;0;107;250;2;0;0;2;0
-45.32.30.135:50001;Japan;JP;CnCNet Japan - rowsnet.com;0;0;250;2;0;0;3;0
-45.32.30.135:50000;Japan;JP;CnCNet Japan - rowsnet.com;0;30;250;2;0;0;2;0
-207.148.67.161:50000;Singapore;SG;CnCNet Singapore - rowsnet.com;0;116;250;2;0;0;2;0
+156.57.173.29:50001;Canada;CA;Canada East - Hosted by ACanadianBear;0;4;250;2;0;0;3;0
+156.57.173.29:50000;Canada;CA;Canada East - Hosted by ACanadianBear;0;10;250;2;0;0;2;0
+45.63.24.182:50001;Australia;AU;CnCNet Australia - rowsnet.com;0;5;250;2;0;0;3;0
+45.63.24.182:50000;Australia;AU;CnCNet Australia - rowsnet.com;0;0;250;2;0;0;2;0
+162.55.221.83:50001;Germany;DE;CnCNet Europe - rowsnet.com;0;22;250;2;0;0;3;0
+162.55.221.83:50000;Germany;DE;CnCNet Europe - rowsnet.com;0;180;250;2;0;0;2;0
+45.32.30.135:50001;Japan;JP;CnCNet Japan - rowsnet.com;0;3;250;2;0;0;3;0
+45.32.30.135:50000;Japan;JP;CnCNet Japan - rowsnet.com;0;2;250;2;0;0;2;0
+207.148.67.161:50000;Singapore;SG;CnCNet Singapore - rowsnet.com;0;8;250;2;0;0;2;0
 207.148.67.161:50001;Singapore;SG;CnCNet Singapore - rowsnet.com;0;2;250;2;0;0;3;0
-139.99.178.157:50000;United States;US;AUNZ Kippage Gaming;0;4;200;1;0;0;2;0
-8.6.193.74:50001;United States;US;US - Miami;0;0;200;1;0;0;3;0
-99.30.230.189:50000;United States;US;US-Midwest-Cleveland;0;6;200;1;0;0;2;0
+139.99.178.157:50000;United States;US;AUNZ Kippage Gaming;0;0;200;1;0;0;2;0
+8.6.193.74:50001;United States;US;US - Miami;0;18;200;1;0;0;3;0
+99.30.230.189:50000;United States;US;US-Midwest-Cleveland;0;5;200;1;0;0;2;0
 82.165.113.214:50000;Germany;DE;United-Forum.de;0;0;200;1;0;0;2;0
-202.61.248.165:50000;Australia;AU;WormsRulez;0;7;200;1;0;0;2;0
-195.201.29.215:50000;Russian Federation;RU;[DE] Clan-Server.EU [2];0;6;200;1;0;0;2;0
-168.119.232.39:50000;United States;US;[DE] Clan-Server.EU [3];0;6;200;1;0;0;2;0
-85.214.53.42:50000;Germany;DE;[DE] cnc.it-powered.de;0;5;100;1;0;0;2;0
-52.232.96.199:50001;United States;US;[FC] EU Tunnel - https://fortuneschaos.com;0;2;200;1;0;0;3;0
-52.232.96.199:50000;United States;US;[FC] EU Tunnel - https://fortuneschaos.com;0;38;200;1;0;0;2;0
-193.70.95.8:50001;Italy;IT;[PL] Kisiek.net;0;0;200;1;0;0;3;0
+202.61.248.165:50000;Australia;AU;WormsRulez;0;30;200;1;0;0;2;0
+195.201.29.215:50000;Russian Federation;RU;[DE] Clan-Server.EU [2];0;7;200;1;0;0;2;0
+168.119.232.39:50000;United States;US;[DE] Clan-Server.EU [3];0;14;200;1;0;0;2;0
+85.214.53.42:50000;Germany;DE;[DE] cnc.it-powered.de;0;8;100;1;0;0;2;0
+52.232.96.199:50001;United States;US;[FC] EU Tunnel - https://fortuneschaos.com;0;26;200;1;0;0;3;0
+52.232.96.199:50000;United States;US;[FC] EU Tunnel - https://fortuneschaos.com;0;36;200;1;0;0;2;0
+193.70.95.8:50001;Italy;IT;[PL] Kisiek.net;0;17;200;1;0;0;3;0
 193.70.95.8:50000;Italy;IT;[PL] Kisiek.net;0;0;200;1;0;0;2;0
-147.135.68.23:50001;United States;US;[US East] Z Server MP https://zserver.org;0;2;200;1;0;0;3;0
-147.135.68.23:50000;United States;US;[US East] Z Server MP https://zserver.org;0;0;200;1;0;0;2;0
+147.135.68.23:50001;United States;US;[US East] Z Server MP https://zserver.org;0;17;200;1;0;0;3;0
+147.135.68.23:50000;United States;US;[US East] Z Server MP https://zserver.org;0;17;200;1;0;0;2;0
+222.209.241.61:50001;China;CN;"[ChengDu]FutureAppleServer";0;0;40;0;0;0;3;0
+222.209.241.61:50000;China;CN;"[ChengDu]FutureAppleServer";0;0;40;0;0;0;2;0
 188.34.166.245:50001;Iran, Islamic Republic of;IR;13ERZ;0;0;20;0;0;0;3;0
 188.34.166.245:50000;Iran, Islamic Republic of;IR;13ERZ;0;0;20;0;0;0;2;0
+152.136.158.219:50000;United States;US;5.1[CN]Bug VS Soon Rua!;0;0;128;0;0;0;2;0
 139.9.130.47:50001;China;CN;777-bak;0;0;200;0;0;0;3;0
-139.9.130.47:50000;China;CN;777-bak;0;145;200;0;0;0;2;0
-46.31.77.128:50000;Iraq;IQ;AEFNET 1;0;0;200;0;0;0;2;0
-193.53.245.234:50000;Belgium;BE;AEFNET 2;0;0;200;0;0;0;2;0
-84.249.142.73:50001;Finland;FI;ANTSUN SERVU;0;0;200;0;0;0;3;0
-84.249.142.73:50000;Finland;FI;ANTSUN SERVU;0;0;200;0;0;0;2;0
+139.9.130.47:50000;China;CN;777-bak;0;6;200;0;0;0;2;0
+176.98.40.132:50000;Unknown;--;AEFNET 1;0;0;200;0;0;0;2;0
+194.110.169.84:50000;Unknown;--;AEFNET 2;0;23;200;0;0;0;2;0
 139.99.178.157:50001;United States;US;AUNZ Kippage Gaming;0;0;200;0;0;0;3;0
-1.15.154.84:50001;China;CN;AimCoin;0;0;200;0;0;0;3;0
-1.15.154.84:50000;China;CN;AimCoin;0;0;200;0;0;0;2;0
-119.28.75.109:50001;China;CN;AimCoin's Server;0;0;200;0;0;0;3;0
-119.28.75.109:50000;China;CN;AimCoin's Server;0;0;200;0;0;0;2;0
+223.72.89.119:50001;China;CN;BUPT_students;0;0;250;0;0;0;3;0
+223.72.89.119:50000;China;CN;BUPT_students;0;0;250;0;0;0;2;0
 112.126.60.100:50001;China;CN;CN jiyun wuhan;0;0;64;0;0;0;3;0
 112.126.60.100:50000;China;CN;CN jiyun wuhan;0;0;64;0;0;0;2;0
 104.128.62.193:50001;United States;US;Chicago - Mt. Durbis;0;0;200;0;0;0;3;0
 104.128.62.193:50000;United States;US;Chicago - Mt. Durbis;0;0;200;0;0;0;2;0
+60.48.55.52:50001;Malaysia;MY;GP;0;0;200;0;0;0;3;0
+60.48.55.52:50000;Malaysia;MY;GP;0;4;200;0;0;0;2;0
 106.55.196.239:50001;China;CN;HAHH9527;0;0;20;0;0;0;3;0
 106.55.196.239:50000;China;CN;HAHH9527;0;0;20;0;0;0;2;0
 73.228.119.173:50001;United States;US;JZ Server;0;0;30;0;0;0;2;0
 73.228.119.173:50000;United States;US;JZ Server;0;0;30;0;0;0;3;0
-49.235.101.8:50001;China;CN;PTPTPT;0;2;200;0;0;0;3;0
-49.235.101.8:50000;China;CN;PTPTPT;0;12;200;0;0;0;2;0
-45.91.133.36:50001;Unknown;--;PalangMao Server Thailand V2;0;0;200;0;0;0;3;0
-45.91.133.36:50000;Unknown;--;PalangMao Server Thailand V2;0;7;200;0;0;0;2;0
+125.84.15.219:50001;China;CN;John'sServer;0;0;200;0;0;0;3;0
+125.84.15.219:50000;China;CN;John'sServer;0;0;200;0;0;0;2;0
+82.156.171.18:50000;Netherlands;NL;OldWolf;0;0;10;0;0;0;2;0
 128.199.221.183:50001;Singapore;SG;PalangMao Server Thailand V4 ;0;0;200;0;0;0;3;0
-128.199.221.183:50000;Singapore;SG;PalangMao Server Thailand V4 ;0;7;200;0;0;0;2;0
+128.199.221.183:50000;Singapore;SG;PalangMao Server Thailand V4 ;0;0;200;0;0;0;2;0
 101.42.109.182:50001;China;CN;RN-china270-2;1;0;32;0;0;0;2;0
 175.178.215.60:50000;China;CN;RN-china272;1;0;32;0;0;0;2;0
 101.35.249.64:50000;China;CN;RN-china273;1;0;32;0;0;0;2;0
 82.146.46.71:50001;Russian Federation;RU;RU MSK TurnWar - turn-guild.ru;0;0;200;0;0;0;3;0
+47.219.106.51:50001;Canada;CA;Tx Echo;0;0;200;0;0;0;3;0
+47.219.106.51:50000;Canada;CA;Tx Echo;0;0;200;0;0;0;2;0
 8.6.193.74:50000;United States;US;US - Miami;0;0;200;0;0;0;2;0
 99.30.230.189:50001;United States;US;US-Midwest-Cleveland;0;0;200;0;0;0;3;0
 82.165.113.214:50001;Germany;DE;United-Forum.de;0;0;200;0;0;0;3;0
-82.156.171.18:50000;Netherlands;NL;VisualNull;1;0;8;0;0;0;2;0
 165.227.60.3:50001;United States;US;Wils Cali Server;0;0;10;0;0;0;3;0
 165.227.60.3:50000;United States;US;Wils Cali Server;0;0;10;0;0;0;2;0
 142.93.186.252:50001;Canada;CA;WilsCCServer;0;0;10;0;0;0;3;0
 142.93.186.252:50000;Canada;CA;WilsCCServer;0;0;10;0;0;0;2;0
 202.61.248.165:50001;Australia;AU;WormsRulez;0;0;200;0;0;0;3;0
 49.234.237.80:50000;China;CN;[0101XXD]'s Server*1;0;0;50;0;0;0;2;0
-42.193.111.226:50001;China;CN;[Beijing, CN] BUPTRA's Server https://buptra.net;0;2;50;0;0;0;3;0
-42.193.111.226:50000;China;CN;[Beijing, CN] BUPTRA's Server https://buptra.net;0;26;50;0;0;0;2;0
-1.117.152.220:50001;China;CN;[CN] Sky Server;0;2;200;0;0;0;3;0
+42.193.111.226:50001;China;CN;[Beijing, CN] BUPTRA's Server https://buptra.net;0;0;50;0;0;0;3;0
+42.193.111.226:50000;China;CN;[Beijing, CN] BUPTRA's Server https://buptra.net;0;0;50;0;0;0;2;0
+43.138.14.69:50001;Japan;JP;[CN] Beijing TencentCloud;0;0;200;0;0;0;3;0
+43.138.14.69:50000;Japan;JP;[CN] Beijing TencentCloud;0;2;200;0;0;0;2;0
+1.117.152.220:50001;China;CN;[CN] Sky Server;0;0;200;0;0;0;3;0
 1.117.152.220:50000;China;CN;[CN] Sky Server;0;0;200;0;0;0;2;0
-152.136.158.219:50000;United States;US;[CN]BUG VS SOON for MU5735;0;19;128;0;0;0;2;0
-113.76.22.94:50000;China;CN;[CN]Guangdong Telecom Server;0;8;200;0;0;0;2;0
+113.76.21.127:50000;China;CN;[CN]Guangdong Telecom Server;0;0;200;0;0;0;2;0
 175.178.41.125:50001;China;CN;[CN]Kud'sSv - GuangZhou;0;0;100;0;0;0;3;0
-175.178.41.125:50000;China;CN;[CN]Kud'sSv - GuangZhou;0;8;100;0;0;0;2;0
-49.235.206.50:50000;China;CN;[CN]Kud'sSv - ShangHai;0;57;100;0;0;0;2;0
-49.235.206.50:50001;China;CN;[CN]Kud'sSv - ShangHai;0;2;100;0;0;0;3;0
-82.156.35.62:50001;Netherlands;NL;[CN]Mind_why:Sever:BeiJing;0;0;200;0;0;0;3;0
-82.156.35.62:50000;Netherlands;NL;[CN]Mind_why:Sever:BeiJing;0;30;200;0;0;0;2;0
+175.178.41.125:50000;China;CN;[CN]Kud'sSv - GuangZhou;0;0;100;0;0;0;2;0
+49.235.206.50:50000;China;CN;[CN]Kud'sSv - ShangHai;0;2;100;0;0;0;2;0
+49.235.206.50:50001;China;CN;[CN]Kud'sSv - ShangHai;0;0;100;0;0;0;3;0
+82.156.35.62:50001;Netherlands;NL;[CN]Mind_why:Sev:BeiJing;0;0;200;0;0;0;3;0
+82.156.35.62:50000;Netherlands;NL;[CN]Mind_why:Sev:BeiJing;0;0;200;0;0;0;2;0
+180.76.114.73:50001;China;CN;[CN]Mind_why:Sev:BeiJing(BY);0;0;50;0;0;0;3;0
+180.76.114.73:50000;China;CN;[CN]Mind_why:Sev:BeiJing(BY);0;0;50;0;0;0;2;0
+182.61.59.152:50001;China;CN;[CN]Mind_why:Sev:GuangZhou;0;0;200;0;0;0;3;0
+182.61.59.152:50000;China;CN;[CN]Mind_why:Sev:GuangZhou;0;0;200;0;0;0;2;0
 119.3.146.165:50001;Hong Kong;HK;[CN]ModCenturyWarServer;0;0;50;0;0;0;3;0
 119.3.146.165:50000;Hong Kong;HK;[CN]ModCenturyWarServer;0;0;50;0;0;0;2;0
 119.91.150.133:50001;China;CN;[CN][GZ]imrbq.com;0;0;30;0;0;0;3;0
-119.91.150.133:50000;China;CN;[CN][GZ]imrbq.com;0;6;30;0;0;0;2;0
+119.91.150.133:50000;China;CN;[CN][GZ]imrbq.com;0;0;30;0;0;0;2;0
 121.5.236.251:50001;China;CN;[CN][SH]imrbq.com;0;0;20;0;0;0;3;0
-121.5.236.251:50000;China;CN;[CN][SH]imrbq.com;0;14;20;0;0;0;2;0
+121.5.236.251:50000;China;CN;[CN][SH]imrbq.com;0;0;20;0;0;0;2;0
 49.234.214.34:50001;China;CN;[CN][SH]laby.ys168.com;0;0;128;0;0;0;3;0
-49.234.214.34:50000;China;CN;[CN][SH]laby.ys168.com;0;29;128;0;0;0;2;0
+49.234.214.34:50000;China;CN;[CN][SH]laby.ys168.com;0;0;128;0;0;0;2;0
 114.96.68.255:50001;China;CN;[CN]wmhx;0;0;20;0;0;0;3;0
 114.96.68.255:50000;China;CN;[CN]wmhx;0;0;20;0;0;0;2;0
 82.157.69.159:50001;Netherlands;NL;[CN]wmhx.2;0;0;20;0;0;0;3;0
 82.157.69.159:50000;Netherlands;NL;[CN]wmhx.2;0;0;20;0;0;0;2;0
 89.221.216.51:50001;Czech Republic;CZ;[CZ] AMK's server;0;0;200;0;0;0;3;0
-89.221.216.51:50000;Czech Republic;CZ;[CZ] AMK's server;0;3;200;0;0;0;2;0
+89.221.216.51:50000;Czech Republic;CZ;[CZ] AMK's server;0;0;200;0;0;0;2;0
 23.88.49.17:50001;United States;US;[DE] Clan-Server.EU [1];0;0;200;0;0;0;3;0
 23.88.49.17:50000;United States;US;[DE] Clan-Server.EU [1];0;0;200;0;0;0;2;0
 195.201.29.215:50001;Russian Federation;RU;[DE] Clan-Server.EU [2];0;0;200;0;0;0;3;0
 168.119.232.39:50001;United States;US;[DE] Clan-Server.EU [3];0;0;200;0;0;0;3;0
 91.54.217.154:50000;Germany;DE;[DE] Hamburg-Fast;0;0;64;0;0;0;2;0
 85.214.53.42:50001;Germany;DE;[DE] cnc.it-powered.de;0;0;100;0;0;0;3;0
+5.186.57.184:50001;Denmark;DK;[DK]-AGE TEST;0;0;200;0;0;0;3;0
+5.186.57.184:50000;Denmark;DK;[DK]-AGE TEST;0;0;200;0;0;0;2;0
 91.121.146.57:51337;France;FR;[EU] Fast Europe Server v2 - www.FreeGameHosting.eu;0;0;200;0;0;0;2;0
 91.121.146.57:51338;France;FR;[EU] Fast Europe Server v3 - www.FreeGameHosting.eu;0;0;200;0;0;0;3;0
-88.99.76.250:50000;United Kingdom;GB;[EU] Fast Server Germany leardev.de;0;14;128;0;0;0;2;0
+88.99.76.250:50000;United Kingdom;GB;[EU] Fast Server Germany leardev.de;0;18;128;0;0;0;2;0
 150.230.125.30:50001;Unknown;--;[RU];0;0;200;0;0;0;3;0
 150.230.125.30:50000;Unknown;--;[RU];0;0;200;0;0;0;2;0
 125.228.192.110:50001;Taiwan;TW;[TW]Jun;0;0;200;0;0;0;3;0
 125.228.192.110:50000;Taiwan;TW;[TW]Jun;0;0;200;0;0;0;2;0
-45.119.83.74:50001;Vietnam;VN;[VN] Ho Chi Minh;0;0;200;0;0;0;3;0
-45.119.83.74:50000;Vietnam;VN;[VN] Ho Chi Minh;0;0;200;0;0;0;2;0
+54.37.245.204:50001;United States;US;[UK] London;0;0;200;0;0;0;3;0
+54.37.245.204:50000;United States;US;[UK] London;0;0;200;0;0;0;2;0
+14.225.239.52:50001;Vietnam;VN;[Vietnam] Vozin;0;0;200;0;0;0;3;0
+14.225.239.52:50000;Vietnam;VN;[Vietnam] Vozin;0;0;200;0;0;0;2;0
 47.93.12.178:50001;China;CN;aliyunbj.cdn.leohearts.com;0;0;200;0;0;0;3;0
-47.93.12.178:50000;China;CN;aliyunbj.cdn.leohearts.com;0;7;200;0;0;0;2;0
-101.43.188.98:50000;China;CN;jiaran Diana;0;2;200;0;0;0;2;0
-101.43.188.98:50001;China;CN;jiaran Diana;0;0;200;0;0;0;3;0
+47.93.12.178:50000;China;CN;aliyunbj.cdn.leohearts.com;0;0;200;0;0;0;2;0
 13.250.135.170:50001;United States;US;leohearts.com;0;0;200;0;0;0;3;0
 13.250.135.170:50000;United States;US;leohearts.com;0;0;200;0;0;0;2;0

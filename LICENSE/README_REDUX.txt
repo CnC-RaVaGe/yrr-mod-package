@@ -10,6 +10,43 @@ C&C YR REDUX Discord: https://discord.com/invite/JYwbeu9dZU
 ====================  RELEASE NOTES  ====================
 
 
+-----------------  Version: 1.007b  -----------------
+Updated Mod Client to most recent CnCNet Client version.
+Updated Renderers to most recent versions.
+Updated Client theme.
+Fixed opening the Diplomacy menu crashing the game.
+Fixed choppers getting stuck on ground after being destroyed, but they still get stuck when crashing onto buildings.
+Fixed an active animation issue with the Nuclear Missile Silo.
+Replaced Soviet Sentry Gun with a new Soviet Flame Turret.
+Rebalanced garrisons. (work in progress)
+Reduced Tank Destroyer's damage to ore miners.
+Shroud revealing support powers now have a area of effect indicator.
+Submarine torpedoes now have new movement dynamics and a new trailer animation.
+Submarine torpedoes can now remove grappling Giant Squids. (Add Sonic=yes to other warheads)
+Added a new Hand Grenade weapon the the Conscript, which it uses to attack structures and vehicles.
+Added new projectile graphics effects and dynamics for all cannon based weapons.
+Added new Camel ambient sound.
+Added new graphical effects for Chrono Legionnaire, Desolator and Mirage Tank weapons.
+Added new particle animations to most explosions.
+Added a new active animation to the Ore Purifier.
+Added a new map "Snow Patrol".
+Added a new map "Dusk Ravine".
+Added a new map "Pinch Points".
+Remastered the map "Dune Patrol".
+Remastered the map "Cold War".
+Remastered the map "Hidden Vally".
+Remastered the map "Let There Be Fight".
+Remastered the map "Pinch Points".
+Remastered the map "Sahara Mirage".
+Remastered the map "Dry Heat".
+Remastered the map "Frost Bite".
+Remastered the map "Frost Bite".
+Remastered the map "Golden State Freeway".
+Remastered the map "Bridging The Gap".
+Remastered the map "Malibu Cliffs".
+Remastered the map "Death Valley Girl".
+
+
 -----------------  Version: 1.006b  -----------------
 Fixed issues connecting to the CnCNet lobby.
 
